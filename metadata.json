@@ -1,0 +1,6 @@
+{
+  "name": "Mizo AppStore",
+  "description": "Mizo Android application siam te phochhuahna, APK download leh update theihna, leh FCM push notification hmanga update inhrilhhriatna platform changtlung tak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
